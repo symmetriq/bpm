@@ -4,4 +4,4 @@
 # ===========================================================================
 
 # Add initial buildfile information here
-config :all, :required => :sproutcore, :url_prefix => 'sc'
+config :all, :required => :sproutcore, :url_prefix => 'projects'

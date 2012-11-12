@@ -19,7 +19,7 @@ Bpm.main = function main() {
   // The default code here will make the mainPane for your application visible
   // on screen.  If you app gets any level of complexity, you will probably 
   // create multiple pages and panes.  
-  Bpm.getPath('mainPage.mainPane').append() ;
+  Bpm.getPath('mainPage.mainPane').append();
 
   Bpm.appController.showPalettePane();
 

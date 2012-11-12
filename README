@@ -9,3 +9,8 @@ A simple BPM calculator built with SproutCore 1.0.
 
 I wrote this to get acquainted with SproutCore, and as a demo for Apple.
 
+Most of the interesting code is here:
+/apps/bpm/controllers/app.js
+
+CSS:
+/apps/bpm/english.lproj/main_page.css

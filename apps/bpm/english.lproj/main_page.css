@@ -24,15 +24,15 @@
 }
 
 .details {
-	/* make text selectable */
-	-webkit-user-select: text;
-	/* show i-beam when cursor is over text */
-	/* this defaults to 'default' which forces arrow even over selectable text */
-	cursor: auto;
+  /* make text selectable */
+  -webkit-user-select: text;
+  /* show i-beam when cursor is over text */
+  /* this defaults to 'default' which forces arrow even over selectable text */
+  cursor: auto;
 }
 
 .details h1 {
-	font-size: 24px;
+  font-size: 24px;
 }
 
 /* override buttons */

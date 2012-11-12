@@ -14,10 +14,10 @@ Bpm.mainPage = SC.Page.design({
 
     childViews: 'interestingDetails'.w(),
 
-		interestingDetails: SC.LabelView.design({
+    interestingDetails: SC.LabelView.design({
       layout: { top: 20, left: 20, bottom: 20, width: 200 },
       classNames: "details",
-			escapeHTML: NO,
+      escapeHTML: NO,
       valueBinding: "Bpm.appController.interestingDetails",
       keyPressed: function(evt){ console.log('A key got pressed');}
     })

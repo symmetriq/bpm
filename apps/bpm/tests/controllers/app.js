@@ -12,4 +12,3 @@ test("test description", function() {
   var result   = "test";
   equals(result, expected, "test should equal test");
 });
-
